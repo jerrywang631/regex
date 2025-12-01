@@ -4,7 +4,7 @@ This mini assignment gives you practice with regex in Java.
 You will implement three methods that use Java in different
 ways to work with regex to perform common tasks. 
 
-- [ ] Create your own copy of this template repo.
+- [x] Create your own copy of this template repo.
 
 - [ ] Complete the three methods in class [Main](src/main/java/regex/Main.java) so that they pass the provided `MainTest`
      tests in class [MainTests](src/test/java/regex/MainTest.java).
